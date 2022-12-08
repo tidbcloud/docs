@@ -8,7 +8,7 @@ On November 1, 2017, TiDB 1.0.1 is released with the following updates:
 
 ## TiDB
 
-- Support canceling DDL Job.
+- Support canceling DDL Job. 
 - Optimize the `IN` expression.
 - Correct the result type of the `Show` statement.
 - Support log slow query into a separate log file.
