@@ -70,6 +70,8 @@ All user operations on the TiDB Cloud Console are recorded in the audit logs as 
 | AuditEventCreateAuditLogAccessRecord | Add database audit log filter conditions |
 | AuditEventDeleteAuditLogAccessRecord | Delete database audit log filter conditions |
 | AuditEventUpdateUserRole | Modify user roles |
+| AuditEventUpdateMaintenanceWindow    | Modify maintenance window start time              |
+| AuditEventDeferMaintenanceTask       | Defer a maintenance task                          |
 
 ## Audit log storage policy
 
